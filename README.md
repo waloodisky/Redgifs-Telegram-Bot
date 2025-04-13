@@ -1,4 +1,4 @@
-## A telegram bot that sends videos from [redgifs](redgifs.com)
+## A telegram bot that sends videos from [redgifs](https://redgifs.com)
 
 ### Installation:
 
