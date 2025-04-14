@@ -1,4 +1,4 @@
-BotToken=("Replace with your bot token")
+BotToken="Replace with your bot token"
 tags=['amateur', 'ass', 'onlyfans', 'cumshot', 'teen', 'pussy', 'cute', 'boobs', 'nsfw', 'asian', 'pov', 'doggystyle', 'sex', 'riding', 'orgasm', 'public', 'thick', 'petite', 'japanese', 'cosplay', 'rule34', 'hentai', 'solo', 'dildo', 'anal', 'cowgirl', 'missionary', 'creampie', 'homemade', 'JAV', 'legal teens', 'barely legal']
 from telegram import Update
 from telegram.ext import Updater, CommandHandler, CallbackContext
